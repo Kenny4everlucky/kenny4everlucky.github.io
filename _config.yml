@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tingwei Cao"
-description              : "Master student of Tsinghua University. Focuses on timing prediction and optimization methods, especially the application of deep learning to renewable energy and power systems."
+description              : "Master student of Tsinghua University. Focus on time series forecasting and optimization methods in the application renewable energy and power systems."
 repository               : "Kenny4everlucky/kenny4everlucky.github.io"
 google_scholar_stats_use_cdn : true
 
