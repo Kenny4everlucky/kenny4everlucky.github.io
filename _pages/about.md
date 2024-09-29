@@ -45,7 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Master, Data science and information technology, Tsinghua University. 💰
-- *2018.09 - 2022.06*, Bachelor, Mathematics and applied mathematics(Statistics), South China University of Technology. 
+- *2018.09 - 2022.06*, Bachelor, Mathematics and applied mathematics(Statistics), South China University of Technology.
+
+# 💰 Projects
 
 {% # 💬 Invited Talks %}
 {% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
