@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station](https://www.sciencedirect.com/science/article/pii/S0306261924011346) IF=10.1
+[Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station](https://www.sciencedirect.com/science/article/pii/S0306261924011346) * IF=10.1 *
 
 **Tingwei Cao**, Yinliang Xu, Guowei Liu, Shengyu Tao, Wenjun Tang, Hongbin Sun
 
