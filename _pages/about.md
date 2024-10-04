@@ -63,7 +63,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   
   *China Southern Power Grid Technology Project*
   
-  1、
+  1、I am responsible for the research of the ubiquitous flexible resource adjustment ability forecasting technology based on deep reinforcement learning. I completed the exploration of research status at home and abroad and the formulation of relevant technical schemes.
+
+  2、I completed the research on the probabilistic forecasting algorithm of ubiquitous resource adjustability and the probabilistic forecasting technology of ubiquitous heterogeneous flexible resource adjustability based on deep reinforcement learning.
+
+- *2023.02 - 2023.05*, **Market mechanism and planning scheduling method considering flexible interaction of electric vehicles**
+
+  *China Southern Power Grid Technology Project*
+
+  1、I proposed an interpretable feature-enhanced data-driven forecasting technique to realize day-ahead probability forecasting of actual EV charging load under different seasonal scenarios.
+
+  2、 I was responsible for writing a technical report on the probabilistic forecasting technology of EV charging load based on deep learning considering interpretability, and applied for a patent.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
