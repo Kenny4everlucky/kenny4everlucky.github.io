@@ -44,13 +44,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master, Data science and information technology, Tsinghua University. 
+- *2022.09 - 2025.06*  Master, Data science and information technology, Tsinghua University. 
 
-- *2018.09 - 2022.06*, Bachelor, Mathematics and applied mathematics (Statistics), South China University of Technology.
+- *2018.09 - 2022.06*  Bachelor, Mathematics and applied mathematics (Statistics), South China University of Technology.
 
 #  📈 Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.09 - Present*  **The technologies of island multi-energy complementation based on floating renewable power**
+  *National Key Research and Development Program of China*
+  1、Participate in the proposal of probabilistic forecasting technology of renewable energy considering spatiotemporal correlation.
+  2、A probabilistic forecasting model of offshore PV based on feature enhanced deep learning is proposed to improve the forecasting accuracy and interval coverage.
+  3、In view of the complex Marine environment involved in offshore PV power generation forecasting, we fully extract the effective features of complex offshore PV data to achieve accurate and reliable offshore PV probabilistic forecasting.
+- *2024.04 - Present*  **Research on intelligent decision operation technology of ubiquitous resources in virtual power plant based on reinforcement learning and self-drive optimization**
+  *China Southern Power Grid Technology Project*
+  1、
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
