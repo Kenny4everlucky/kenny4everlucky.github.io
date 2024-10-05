@@ -38,6 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 </div>
 </div>
 
+- `Applied Energy` [Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0306261924006044), Xutao Liu, Shengyu Tao, Shiyi Fu, Ruifei Ma, **Tingwei Cao**, Hongtao Fan, Junxiong Zuo, Xuan Zhang, Yu Wang, Yaojie Sun, et al.
+- ``ArXiv preprint`` [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
