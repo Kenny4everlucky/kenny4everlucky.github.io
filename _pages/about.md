@@ -21,8 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 The collaborator's paper *Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries* has been accepted by journal ***Applied Energy***
+- *2024.07*: &nbsp;🎉🎉 My independent first author paper *Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station* has been accepted by journal ***Applied Energy***
 
 # 📝 Publications 
 
