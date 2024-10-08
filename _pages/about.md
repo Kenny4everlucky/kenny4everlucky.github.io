@@ -33,7 +33,9 @@ redirect_from:
 **Tingwei Cao**, Yinliang Xu, Guowei Liu, Shengyu Tao, Wenjun Tang, Hongbin Sun
 
 [**Project**](https://github.com/Kenny4everlucky/FEDQR_dataset) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  The proposed approach improves the accuracy rate, qualified rate, sharpness and computational efficiency. 
+-  A novel feature enhanced mechanism is proposed to introduce the correlation coefficient as the prior knowledge of the neural network. 
+-  The proposed approach can provide an excellent forecasting performance in the constraints of low data volume.
 </div>
 </div>
 
