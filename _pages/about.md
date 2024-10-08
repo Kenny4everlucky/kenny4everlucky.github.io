@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 The collaborator's paper *"Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"* has been accepted by journal ***Applied Energy***.
 - *2024.07*: &nbsp;🎉🎉 My independent first author paper *"Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"* has been accepted by journal ***Applied Energy***.
+- *2024.05*: &nbsp;🎉🎉 The collaborator's paper *"Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"* has been accepted by journal ***Applied Energy***.
+
 
 # 📝 Publications 
 
@@ -42,13 +41,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *`ArXiv preprint`* [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11* Postgraduate mathematical modeling competition, *National Third Prize*. 
 
 # 📖 Educations
-- *2022.09 - 2025.06*, Master, Data science and information technology, Tsinghua University. 
+- *2022.09 - 2025.06*, Master, Data science and information technology, ***Tsinghua University***. 
 
-- *2018.09 - 2022.06*, Bachelor, Mathematics and applied mathematics (Statistics), South China University of Technology.
+- *2018.09 - 2022.06*, Bachelor, Mathematics and applied mathematics (Statistics), ***South China University of Technology***.
 
 #  📈 Projects
 - *2023.09 - Present*, **The technologies of island multi-energy complementation based on floating renewable power**
@@ -78,4 +76,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   2、 I was responsible for writing a technical report on the probabilistic forecasting technology of EV charging load based on deep learning considering interpretability, and applied for a patent.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.05 - 2020.09*, Development Department, Industrial and Commercial Bank of China, Guangzhou, China.
