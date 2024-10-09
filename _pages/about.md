@@ -26,7 +26,6 @@ redirect_from:
 # 📝 Publications 
 
 ## Journal 2024
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
