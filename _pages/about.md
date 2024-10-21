@@ -19,6 +19,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Got the Second-Class scholarship of Tsinghua University, congratulations!
 - *2024.07*: &nbsp;🎉🎉 My independent first author paper *"Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"* has been accepted by journal ***Applied Energy***.
 - *2024.05*: &nbsp;🎉🎉 The collaborator's paper *"Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"* has been accepted by journal ***Applied Energy***.
 
@@ -45,6 +46,7 @@ redirect_from:
 - *`ArXiv preprint`* [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
 
 # 🎖 Honors and Awards
+- *2024.10* Tsinghua University graduate scholarship, *University-level Second-class Prize*. 
 - *2022.11* Postgraduate mathematical modeling competition, *National Third Prize*. 
 
 # 📖 Educations
