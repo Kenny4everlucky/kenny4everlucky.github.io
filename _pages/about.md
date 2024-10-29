@@ -46,8 +46,8 @@ redirect_from:
 - *`ArXiv preprint`* [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
 
 # 🎖 Honors and Awards
-- *2024.10* Tsinghua University graduate scholarship, *University-level Second-class Prize*. 
-- *2022.11* Postgraduate mathematical modeling competition, *National Third Prize*. 
+- *2024.10* Tsinghua University graduate scholarship, ***Second-class Prize*** (*Top 15%*). 
+- *2022.11* Postgraduate mathematical modeling competition, ***National Third Prize***. 
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Data science and information technology, ***Tsinghua University***. 
