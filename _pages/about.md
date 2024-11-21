@@ -42,9 +42,9 @@ redirect_from:
 </div>
 </div>
 
-- *`Nature Communications`* [Generative-learning-assisted Rapid State-of-health Estimation for Sustainable Battery Recycling with Random Retirement Conditions](), Shengyu Tao, Ruifei Ma, Zixi Zhao, Guangyuan Ma, Lin Su, Heng Chang, Yuou Chen, Haizhou Liu, Zheng Liang, **Tingwei Cao**, Haocheng Ji, Zhiyuan Han, Minyan Lu, Huixiong Yang, Zongguo Wen, et al.
-- *`Applied Energy`* [Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0306261924006044), Xutao Liu, Shengyu Tao, Shiyi Fu, Ruifei Ma, **Tingwei Cao**, Hongtao Fan, Junxiong Zuo, Xuan Zhang, Yu Wang, Yaojie Sun, et al.
-- *`ArXiv preprint`* [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
+- ***`Nature Communications`*** [Generative-learning-assisted Rapid State-of-health Estimation for Sustainable Battery Recycling with Random Retirement Conditions](), Shengyu Tao, Ruifei Ma, Zixi Zhao, Guangyuan Ma, Lin Su, Heng Chang, Yuou Chen, Haizhou Liu, Zheng Liang, **Tingwei Cao**, Haocheng Ji, Zhiyuan Han, Minyan Lu, Huixiong Yang, Zongguo Wen, et al.
+- ***`Applied Energy`*** [Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S0306261924006044), Xutao Liu, Shengyu Tao, Shiyi Fu, Ruifei Ma, **Tingwei Cao**, Hongtao Fan, Junxiong Zuo, Xuan Zhang, Yu Wang, Yaojie Sun, et al.
+- ***`ArXiv preprint`*** [Non-destructive Degradation Pattern Decoupling for Ultra-early Battery Prototype Verification Using Physics-informed Machine Learning](https://arxiv.org/abs/2406.00276), Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, **Tingwei Cao**, et al.
 
 # 🎖 Honors and Awards
 - *2024.10* Tsinghua University graduate scholarship, ***Second-class Prize*** (*Top 15%*). 
