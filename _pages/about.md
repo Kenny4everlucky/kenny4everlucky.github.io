@@ -19,6 +19,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 The collaborator's paper *"Generative learning assisted State-of-health Estimation for Sustainable Battery Recycling with Random Retirement Conditions"* has been accepted by journal ***Nature Communications***.
 - *2024.10*: &nbsp;🎉🎉 I am honored to get the second-class scholarship of Tsinghua University (*Top 15%*). Congratulations!
 - *2024.07*: &nbsp;🎉🎉 My independent first author paper *"Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"* has been accepted by journal ***Applied Energy***.
 - *2024.05*: &nbsp;🎉🎉 The collaborator's paper *"Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"* has been accepted by journal ***Applied Energy***.
