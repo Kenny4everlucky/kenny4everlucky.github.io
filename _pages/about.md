@@ -42,7 +42,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/nc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative-learning-assisted Rapid State-of-health Estimation for Sustainable Battery Recycling with Random Retirement Conditions](https://www.nature.com/articles/s41467-024-54454-0) *IF=14.7*
